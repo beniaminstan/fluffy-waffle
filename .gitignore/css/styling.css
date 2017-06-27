@@ -1,0 +1,131 @@
+body{
+    font: normal 85% Arial, Helvetica, sans-serif;
+    background: url(../css/wallpaper.png) no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    text-color: white;
+}
+
+#toolbar{
+    margin-top: 25px;
+}
+
+#pos{
+    position: relative;
+    height: 100%;
+    width: 100%;
+    background-color: black;
+
+}
+
+#main{
+    position: absolute;
+    height: 100%;
+    width: 100%;
+
+}
+
+a{
+    text-size: 30px;
+}
+
+#hes{
+    font: normal 85% Arial, Helvetica, sans-serif;
+    font-size: 2em;
+    color: #FFF;
+    text-shadow: 0px 1px 0px #000;
+    letter-spacing: -1px;
+    margin: 0 0 10px 0;
+    text-align: center;
+    margin-top: 20%;
+}
+
+.dobest1{
+    font-size: 1.5em;
+    text-align: center;
+    color: white;
+    margin-top: -8%;
+}
+
+.dobest{
+    font-size: 1.5em;
+    text-align: center;
+    color: white;
+    margin-top: 10px;
+}
+
+
+#menu{
+    display: inline;
+}
+
+#menu li{
+    list-style: none;
+    margin: 5px 0 0 0;
+    display: inline;
+}
+
+#menu_items #menu li a{
+    text-size: 30px;
+}
+
+#nomore{
+    text-size: 1.2em;
+}
+
+#menu_items{
+    float: right;
+    width: 800px;
+    margin-left: 30%;
+}
+
+#jumbos{
+    width: 31%;
+    margin: auto;
+}
+
+#nomorecont{
+    display: inline-block;
+    margin-left: 3%;
+
+}
+
+.lead{
+    color: #FFFFFF;
+}
+
+#but{
+    margint-top: -2%;
+    margin-left: 45%;
+}
+
+#buttonsdown{
+    width: 50%;
+    margin: auto;
+    margin-top: 50px;
+}
+
+#buttonsdown button{
+    height: 300px;
+}
+
+#buttonsdown button img{
+    width: 175px;
+    height: 175px;
+    padding-bottom: 10px;
+}
+
+#svglin{
+    width: 100%;
+    margin: auto;
+}
+
+#svgMain {
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
+
+li.lo a:hover{
+    text-decoration: none;
+}
